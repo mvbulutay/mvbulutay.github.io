@@ -47,9 +47,9 @@ params:
           enabled: true
           title: Dr Muhammed Bulutay
           subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute).
-My research studies information, expectations, and decisions — with applications to inflation,
+My research studies expectations and decision-making under uncertainty — with applications to inflation,
 central bank communication, and household/firm behavior."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -80,7 +80,7 @@ central bank communication, and household/firm behavior."
        # - name: Office Hours
        #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=UVNay1sAAAAJ&hl=en
        # - name: GitHub
        #   url: https://github.com/pmichaillat
        # - name: Substack
@@ -98,7 +98,7 @@ central bank communication, and household/firm behavior."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Muhammed Bulutay"
       icon: favicon.ico
       iconHeight: 18
 
