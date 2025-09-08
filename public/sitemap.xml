@@ -2,124 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://junwong.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/research_dynamic/</loc>
+    <loc>http://localhost:1313/research_dynamic/</loc>
     <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/research/bangalore/</loc>
+    <loc>http://localhost:1313/research/bangalore/</loc>
     <lastmod>2023-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/design/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/d4/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/d2/</loc>
-    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/d5/</loc>
-    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/d1/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/d3/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/beveridge-curve/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/business-cycles/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/c5/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/courses/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/economic-slack/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/efficiency/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/government-spending/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/matching-model/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/monetary-policy/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/price-rigidity/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/stabilization-policy/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/sufficient-statistics/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/unemployment-gap/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/research/sbir/</loc>
+    <loc>http://localhost:1313/research/sbir/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/c2/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/research/ppp/</loc>
+    <loc>http://localhost:1313/research/ppp/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/tags/job-rationing/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/multiplier/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/unemployment/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/c1/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/unemployment-insurance/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/wage-rigidity/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/research/rng/</loc>
+    <loc>http://localhost:1313/research/rng/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/papers/wooduse/</loc>
+    <loc>http://localhost:1313/papers/wooduse/</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junwong.org/c4/</loc>
-    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/location/</loc>
   </url><url>
-    <loc>https://junwong.org/tags/differential-equations/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://junwong.org/c3/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/tags/optimal-control/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junwong.org/location/</loc>
-  </url><url>
-    <loc>https://junwong.org/officehours/</loc>
-  </url><url>
-    <loc>https://junwong.org/research/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
