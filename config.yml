@@ -49,7 +49,7 @@ params:
           subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute).
 My research studies expectations and decision-making under uncertainty — with applications to inflation,
 central bank communication, and household/firm behavior."
-          imageUrl: "https://drive.google.com/file/d/168DznmFpTgsjy31W8roqshXQUaE47xIq/view?usp=sharing"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -69,28 +69,28 @@ central bank communication, and household/firm behavior."
            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-         - name: CV
-           url: https://drive.google.com/file/d/1ZP6-lDDKrj4kiodIxh2BlZGafvTzB_gW/view?usp=sharing
-         - name: Email
-           url: mailto:muhammedbulutay@awi.uni-heidelberg.de
+        - name: CV
+          url: https://drive.google.com/file/d/1ZP6-lDDKrj4kiodIxh2BlZGafvTzB_gW/view?usp=sharing
+        - name: Email
+          url: mailto:muhammedbulutay@awi.uni-heidelberg.de
        # - name: Zoom
        #   url: https://www.zoom.us/my/igelfeld
        # - name: Location
        #   url: location/
        # - name: Office Hours
        #   url: officehours/
-         - name: Google Scholar
-           url: https://scholar.google.com/citations?user=UVNay1sAAAAJ&hl=en
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=UVNay1sAAAAJ&hl=en
        # - name: GitHub
        #   url: https://github.com/pmichaillat
        # - name: Substack
        #   url: https://pmichaillat.substack.com
        # - name: YouTube
        #   url: https://www.youtube.com/@pmichaillat
-         - name: X
-           url: https://x.com/mvbulutay
-         - name: Bluesky
-           url: https://bsky.app/profile/mvbulutay.bsky.social
+        - name: Twitter
+          url: https://x.com/mvbulutay
+        - name: Bluesky
+          url: https://bsky.app/profile/mvbulutay.bsky.social
 
     assets:
         disableScrollBarStyle: true
