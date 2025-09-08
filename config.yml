@@ -1,4 +1,4 @@
-baseURL: "https://https://muhammedbulutay.com/" 
+baseURL: "https://muhammedbulutay.com/" 
 title: Muhammed Bulutay
 theme: PaperMod
 
@@ -20,7 +20,7 @@ menu:
           weight: 3
 
 params:
-    description: "This website hosts Muhammed Bulutay's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Muhammed Bulutay's research papers and course information."
     author: Muhammed Bulutay
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -46,9 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Dr Muhammed Bulutay
-          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute).
-My research studies expectations and decision-making under uncertainty — with applications to inflation,
-central bank communication, and household/firm behavior."
+          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute). My research studies expectations and decision-making under uncertainty — with applications to inflation, central bank communication, and household/firm behavior."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
