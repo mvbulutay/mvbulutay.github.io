@@ -1,6 +1,6 @@
 ---
-title: "Papers"
-url: "/papers/"
+title: "Research"
+url: "/research/"
 layout: "single"
 ---
 

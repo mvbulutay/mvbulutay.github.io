@@ -12,15 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
         - name: Courses
           url: courses/
           weight: 3
 
 params:
-    description: "This website hosts Muhammed Bulutay's research papers and course information."
+    description: "This website hosts Muhammed Bulutay's research and course information."
     author: Muhammed Bulutay
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -35,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers"]
+    MainSections: ["courses","research"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -51,8 +51,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Research
+              url: research/
            # - name: Data
            #   url: data/
            # - name: Books
