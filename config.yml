@@ -95,7 +95,6 @@ params:
           url: https://bsky.app/profile/mvbulutay.bsky.social
 
     assets:
-	disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: true
