@@ -15,8 +15,8 @@ menu:
         - name: Research
           url: research/
           weight: 2
-        #- name: Courses
-        #  url: courses/
+        - name: Teaching
+          url: teaching/
         #  weight: 3
 
 params:
@@ -35,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research"]
+    MainSections: ["research","teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -57,8 +57,8 @@ params:
            #   url: data/
            # - name: Books
            #   url: books/
-           # - name: Courses
-           #   url: courses/
+            - name: Teaching
+              url: teaching/
            # - name: Tags
            #   url: tags/
            # - name: Archive
