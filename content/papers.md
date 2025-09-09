@@ -6,12 +6,12 @@ layout: "single"
 
 ### Publications
 
-- **[Paper Title A](https://link.to/paperA)**
+- **[Measuring strategic-uncertainty attitudes](https://doi.org/10.1007/s10683-022-09779-2)**
   
-  (with [Coauthor 1](https://link.to/co1), [Coauthor 2](https://link.to/co2))
+  (with [Lisa Bruttel](https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel), [Camille Cornand](https://sites.google.com/view/camille-cornand/home), [Frank Heinemann](https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann), [Adam Zylbersztejn](https://sites.google.com/site/zylbersztejn/) )
   
-  *Journal Name*, **Vol X**, 2025.  
-  [Pre-print](https://link.to/preprintA) · [Appendix](https://link.to/appendixA) · [Thread](https://link.to/threadA)
+  *Experimental Economics*, 26(3), 2023.  
+  [Pre-print](https://ideas.repec.org/p/pot/cepadp/54.html) · [Appendix](https://www.cambridge.org/core/journals/experimental-economics/article/abs/measuring-strategicuncertainty-attitudes/4AB83F8DBC41F3CC60A3C6C505DD0085#supplementary-materials) · [Thread](https://x.com/mvbulutay/status/1587421533890297858)
 
 - **[Paper Title B](https://link.to/paperB)**
   
