@@ -5,7 +5,7 @@ layout: "single"
 hidemeta: true
 ---
 
-<div style="text-align:right;"><em><small>“All models are wrong, but some are useful.”<br>— George E. P. Box</small></em></div>
+<div style="text-align:right;"><em><small>“L'histoire des sciences est l'histoire des défaites de l'irrationalisme.”<br>— Gaston Bachelard Box</small></em></div>
 
 # Research
 
