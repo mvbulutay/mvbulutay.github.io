@@ -46,7 +46,10 @@ params:
     profileMode:
           enabled: true
           title: Dr. Muhammed Bulutay
-          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute). My research studies expectations and strategic uncertainty — with applications to inflation, central bank communication, and household/firm behavior.  "
+          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute). My research studies expectations and strategic uncertainty — with applications to inflation, central bank communication, and household/firm behavior.
+      <br><br><strong>News and updates</strong>
+      <br><small>-- Presentation: <a href="https://uchieconomics.my.canva.site/afe-2025">AFE 2025</a> (19-Sep, Chicago) </small>
+      <br><small>-- Teaching: Outline and syllabus are updated for WS 2025.</small>"
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
