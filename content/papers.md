@@ -9,13 +9,13 @@ hidemeta: true
 
 # Research
 
-### Published research
+## Published research
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1007/s10683-022-09779-2">Measuring strategic-uncertainty attitudes</a></strong><br>
 <small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
 <em>Experimental Economics</em>, 26(3), 2023.<br>
-<a href="https://ideas.repec.org/p/pot/cepadp/54.html">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf">Appendix</a> · <a href="https://x.com/mvbulutay/status/1587421533890297858">Thread</a>
+<small><a href="https://ideas.repec.org/p/pot/cepadp/54.html">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf">Appendix</a> · <a href="https://x.com/mvbulutay/status/1587421533890297858">Thread</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
@@ -39,7 +39,7 @@ hidemeta: true
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957606">Pre-print</a> · <a href="/appendices/1-s2.0-S0167268121004492-mmc1.pdf">Appendix</a> · <a href="https://link.to/threadD">Thread</a>
 </div>
 
-### Working Papers
+## Working Papers
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381">Consumer beliefs about central bank inflation forecasts</a></strong><br>
@@ -53,7 +53,7 @@ hidemeta: true
 <a href="https://aspredicted.org/59bm-mzhz.pdf">PAP</a> · <a href="https://bsky.app/profile/mvbulutay.bsky.social/post/3lnkrvxhotk24">Thread</a>
 </div>
 
-### Selected works in progress
+## Selected works in progress
 
 <div style="margin:0 0 1.25rem 0;">
 <strong>Beliefs and behavior: Causality in information experiments with cross learning</strong><br>
