@@ -5,7 +5,7 @@ layout: "single"
 hidemeta: true
 ---
 
-<div style="text-align:right; font-size: x-small; font-style: italic;">
+<div style="text-align:right; font-size: small; font-style: italic;">
   “L'histoire des sciences est l'histoire des défaites de l'irrationalisme.”<br>— Gaston Bachelard
 </div>
 
