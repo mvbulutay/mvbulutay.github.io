@@ -11,14 +11,14 @@ layout: "single"
   (with [Lisa Bruttel](https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel), [Camille Cornand](https://sites.google.com/view/camille-cornand/home), [Frank Heinemann](https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann), [Adam Zylbersztejn](https://sites.google.com/site/zylbersztejn/) )
   
   *Experimental Economics*, 26(3), 2023.  
-  [Pre-print](https://ideas.repec.org/p/pot/cepadp/54.html) · [Appendix](https://www.cambridge.org/core/journals/experimental-economics/article/abs/measuring-strategicuncertainty-attitudes/4AB83F8DBC41F3CC60A3C6C505DD0085#supplementary-materials) · [Thread](https://x.com/mvbulutay/status/1587421533890297858)
+  [Pre-print](https://ideas.repec.org/p/pot/cepadp/54.html) · [Appendix](/appendices/S1386415723013303sup001.pdf) · [Thread](https://x.com/mvbulutay/status/1587421533890297858)
 
-- **[Paper Title B](https://link.to/paperB)**
+- **[Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs](https://doi.org/10.1073/pnas.2215572120)**
   
-  (with [Coauthor 1](https://link.to/co1))
+  (with [Christoph Huber](https://chr-huber.com/), [Anna Dreber](https://sites.google.com/site/annadreber/), [Jürgen Huber](https://www.uibk.ac.at/de/ibf/team/huberj/), [+91 others],  [Felix Holzmeister])
   
-  *Another Journal*, **Vol Y**, 2024.  
-  [Pre-print](https://link.to/preprintB) · [Appendix](https://link.to/appendixB) · [Thread](https://link.to/threadB)
+  *PNAS*, 120(3), 2023.  
+  [Pre-print](https://ideas.repec.org/a/nas/journl/v120y2023pe2215572120.html) · [Appendix](/appendices/pnas.2215572120.sapp.pdf) · [Website](https://manydesigns.online/)
 
 - **[Paper Title C](https://link.to/paperC)**
   
