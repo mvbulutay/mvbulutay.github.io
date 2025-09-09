@@ -50,7 +50,6 @@ params:
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-	  imageTitle: Photo by Antonia Mentele
           buttons:
             - name: Research
               url: research/
