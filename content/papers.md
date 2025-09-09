@@ -13,44 +13,44 @@ hidemeta: true
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1007/s10683-022-09779-2">Measuring strategic-uncertainty attitudes</a></strong><br>
-<small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
+<small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)<br>
 <em>Experimental Economics</em>, 26(3), 2023.<br>
-<a href="https://ideas.repec.org/p/pot/cepadp/54.html">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf">Appendix</a> · <a href="https://x.com/mvbulutay/status/1587421533890297858">Thread</a>
+<a href="https://ideas.repec.org/p/pot/cepadp/54.html">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf">Appendix</a> · <a href="https://x.com/mvbulutay/status/1587421533890297858">Thread</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1073/pnas.2215572120">Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</a></strong><br>
-<small>(with <a href="https://chr-huber.com/">Christoph Huber</a>, <a href="https://sites.google.com/site/annadreber/">Anna Dreber</a>, <a href="https://www.uibk.ac.at/de/ibf/team/huberj/">Jürgen Huber</a>, +91 others, and <a href="https://www.uibk.ac.at/de/economics/mitarbeiterinnen/felix-holzmeister/">Felix Holzmeister</a>)</small><br>
+<small>(with <a href="https://chr-huber.com/">Christoph Huber</a>, <a href="https://sites.google.com/site/annadreber/">Anna Dreber</a>, <a href="https://www.uibk.ac.at/de/ibf/team/huberj/">Jürgen Huber</a>, +91 others, and <a href="https://www.uibk.ac.at/de/economics/mitarbeiterinnen/felix-holzmeister/">Felix Holzmeister</a>)<br>
 <em>PNAS</em>, 120(3), 2023.<br>
-<a href="https://ideas.repec.org/a/nas/journl/v120y2023pe2215572120.html">Pre-print</a> · <a href="/appendices/pnas.2215572120.sapp.pdf">Appendix</a> · <a href="https://manydesigns.online/">Website</a>
+<a href="https://ideas.repec.org/a/nas/journl/v120y2023pe2215572120.html">Pre-print</a> · <a href="/appendices/pnas.2215572120.sapp.pdf">Appendix</a> · <a href="https://manydesigns.online/">Website</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1016/j.jebo.2020.05.023">Learning to deal with repeated shocks under strategic complementarity: An experiment</a></strong><br>
-<small>(with <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
+<small>(with <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)<br>
 <em>Journal of Economic Behavior &amp; Organization</em>, 200, 2022.<br>
-<a href="https://ideas.repec.org/p/hal/wpaper/halshs-02458140.html">Pre-print</a>
+<a href="https://ideas.repec.org/p/hal/wpaper/halshs-02458140.html">Pre-print</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1016/j.jebo.2021.10.018">Imperfect tacit collusion and asymmetric price transmission</a></strong><br>
-<small>(with David Hales, Patrick Julius, and Weiwei Tasch)</small><br>
+<small>(with David Hales, Patrick Julius, and Weiwei Tasch)<br>
 <em>Journal of Economic Behavior &amp; Organization</em>, 192, 2021.<br>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957606">Pre-print</a> · <a href="/appendices/1-s2.0-S0167268121004492-mmc1.pdf">Appendix</a> · <a href="https://link.to/threadD">Thread</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957606">Pre-print</a> · <a href="/appendices/1-s2.0-S0167268121004492-mmc1.pdf">Appendix</a> · <a href="https://link.to/threadD">Thread</a></small>
 </div>
 
 ### Working Papers
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381">Consumer beliefs about central bank inflation forecasts</a></strong><br>
-<small>(submitted)</small><br>
-<a href="https://aspredicted.org/26t9n.pdf">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf">PAP-2</a>
+<small>(submitted)<br>
+<a href="https://aspredicted.org/26t9n.pdf">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf">PAP-2</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5228810">Irrational inattention</a></strong><br>
-<small>(with <a href="https://sites.google.com/site/cirilboschrosa/">Ciril Bosch-Rosa</a>, and <a href="http://bkassner.eu/">Bernhard Kassner</a>)</small><br>
-<a href="https://aspredicted.org/59bm-mzhz.pdf">PAP</a> · <a href="https://bsky.app/profile/mvbulutay.bsky.social/post/3lnkrvxhotk24">Thread</a>
+<small>(with <a href="https://sites.google.com/site/cirilboschrosa/">Ciril Bosch-Rosa</a>, and <a href="http://bkassner.eu/">Bernhard Kassner</a>)<br>
+<a href="https://aspredicted.org/59bm-mzhz.pdf">PAP</a> · <a href="https://bsky.app/profile/mvbulutay.bsky.social/post/3lnkrvxhotk24">Thread</a></small>
 </div>
 
 ### Selected works in progress
