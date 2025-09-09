@@ -54,6 +54,7 @@ params:
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
+	  imageTitle: Photo by Antonia Mentele
           buttons:
             - name: Research
               url: research/
@@ -95,6 +96,7 @@ params:
           url: https://bsky.app/profile/mvbulutay.bsky.social
 
     assets:
+	disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: true
