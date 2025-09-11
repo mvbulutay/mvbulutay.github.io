@@ -17,7 +17,7 @@ menu:
           weight: 2
         - name: Teaching
           url: teaching/
-        #  weight: 3
+          weight: 3
 
 params:
     description: "This website hosts Muhammed Bulutay's research and course information."
@@ -51,8 +51,8 @@ params:
       <br><small>-- Presentation: AFE 2025 (19-Sep, Chicago) </small>
       <br><small>-- Teaching: Outline and syllabus are updated for WS 2025.</small>  "
           imageUrl: "picture.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 190
+          imageHeight: 190
           buttons:
             - name: Research
               url: research/
