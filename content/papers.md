@@ -9,7 +9,6 @@ hidemeta: true
   “L'histoire des sciences est l'histoire des défaites de l'irrationalisme.”<br>— Gaston Bachelard
 </div>
 
-# Research
 
 ## Working papers
 
@@ -30,14 +29,14 @@ hidemeta: true
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1007/s10683-022-09779-2">Measuring strategic-uncertainty attitudes</a></strong><br>
-<small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
+<small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/ccornand/">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
 <small><em>Experimental Economics</em>, 26(3), 2023.</small><br>
 <small><a href="https://ideas.repec.org/p/pot/cepadp/54.html">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf">Appendix</a> · <a href="https://x.com/mvbulutay/status/1587421533890297858">Thread</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1016/j.jebo.2020.05.023">Learning to deal with repeated shocks under strategic complementarity: An experiment</a></strong><br>
-<small>(with <a href="https://sites.google.com/view/camille-cornand/home">Camille Cornand</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
+<small>(with <a href="https://sites.google.com/view/ccornand/">Camille Cornand</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
 <small><em>Journal of Economic Behavior &amp; Organization</em>, 200, 2022.</small><br>
 <small><a href="https://ideas.repec.org/p/hal/wpaper/halshs-02458140.html">Pre-print</a></small>
 </div>
