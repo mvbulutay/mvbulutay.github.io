@@ -11,7 +11,7 @@ hidemeta: true
 
 # Research
 
-## Working Papers
+## Working papers
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381">Consumer beliefs about central bank inflation forecasts</a></strong><br>
@@ -20,7 +20,7 @@ hidemeta: true
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
-<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5228810">Irrational inattention</a></strong><br>
+<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5228810">Overprecision and (ir)rational inattention</a></strong><br>
 <small>(with <a href="https://sites.google.com/site/cirilboschrosa/">Ciril Bosch-Rosa</a>, and <a href="http://bkassner.eu/">Bernhard Kassner</a>)</small><br>
 <small>(submitted)</small><br>
 <small><a href="https://aspredicted.org/59bm-mzhz.pdf">PAP</a> · <a href="https://bsky.app/profile/mvbulutay.bsky.social/post/3lnkrvxhotk24">Thread</a></small>
@@ -49,7 +49,7 @@ hidemeta: true
 <small><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957606">Pre-print</a> · <a href="/appendices/1-s2.0-S0167268121004492-mmc1.pdf">Appendix</a> · <a href="https://link.to/threadD">Thread</a></small>
 </div>
 
-## Contributions to Crowd-Sourced Research Projects
+## Crowd-sourced projects
 
 <div style="margin:0 0 1.25rem 0;">
 <strong><a href="https://doi.org/10.1073/pnas.2215572120">Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</a></strong><br>
