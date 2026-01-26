@@ -14,13 +14,17 @@ hidemeta: true
 ## Working papers
 
 <div style="margin:0 0 1.25rem 0;">
-<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381">Consumer beliefs about central bank inflation forecasts</a></strong><br>
+<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381">
+  Consumer beliefs about central bank inflation forecasts
+</a></strong><br>
 <small>(submitted)</small><br>
 <small><a href="https://aspredicted.org/26t9n.pdf">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf">PAP-2</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
-<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5228810">Overprecision and (ir)rational inattention</a></strong><br>
+<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5228810">
+  Overprecision and (ir)rational inattention
+</a></strong><br>
 <small>(with <a href="https://sites.google.com/site/cirilboschrosa/">Ciril Bosch-Rosa</a>, and <a href="http://bkassner.eu/">Bernhard Kassner</a>)</small><br>
 <small>(submitted)</small><br>
 <small><a href="https://aspredicted.org/59bm-mzhz.pdf">PAP</a> · <a href="https://bsky.app/profile/mvbulutay.bsky.social/post/3lnkrvxhotk24">Thread</a></small>
