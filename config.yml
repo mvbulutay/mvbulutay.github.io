@@ -46,9 +46,10 @@ params:
     profileMode:
           enabled: true
           title: Dr. Muhammed Bulutay
-          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute). My research studies expectations and strategic uncertainty — with applications to inflation, central bank communication, and household/firm behavior. 
-      <br><br><strong>News and updates</strong>
-      <br><small> Visiting - I will be visiting Bogazici University between 16 December and 12 January.</small>  "
+          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute). 
+          My research studies expectations and strategic uncertainty — with applications to inflation, central bank communication, and household/firm behavior." 
+      #<br><br><strong>News and updates</strong>
+      #<br><small> Visiting - I will be visiting Bogazici University between 16 December and 12 January.</small>  "
           imageUrl: "picture.jpg"
           imageWidth: 190
           imageHeight: 190
@@ -72,7 +73,7 @@ params:
         - name: CV
           url: https://drive.google.com/file/d/1ZP6-lDDKrj4kiodIxh2BlZGafvTzB_gW/view?usp=sharing
         - name: Email
-          url: mailto:muhammedbulutay@awi.uni-heidelberg.de
+          url: mailto:muhammed.bulutay@awi.uni-heidelberg.de
        # - name: Zoom
        #   url: https://www.zoom.us/my/igelfeld
        # - name: Location
