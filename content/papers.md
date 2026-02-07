@@ -17,7 +17,7 @@ hidemeta: true
 <strong>Measuring strategic-uncertainty attitudes</strong><br>
 <small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/ccornand/">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
 <small><em>Experimental Economics</em>, 26(3), 2023.</small><br>
-<small><a href="https://doi.org/10.1007/s10683-022-09779-2" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Journal</a> · <a href="https://ideas.repec.org/p/pot/cepadp/54.html" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Appendix</a> · <a href="https://x.com/mvbulutay/status/1587421533890297858" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Thread</a></small>
+<small><a href="https://doi.org/10.1007/s10683-022-09779-2" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Journal</a> · <a href="https://ideas.repec.org/p/pot/cepadp/54.html" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Pre-print</a> · <a href="/appendices/S1386415723013303sup001.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Appendix</a>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
