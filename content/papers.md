@@ -21,13 +21,6 @@ hidemeta: true
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
-<strong>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</strong><br>
-<small>(with +95 others</small><br>
-<small><em>PNAS</em>, 120(3), 2023.</small><br>
-<small><a href="https://doi.org/10.1073/pnas.2215572120" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Journal</a> · <a href="https://ideas.repec.org/a/nas/journl/v120y2023pe2215572120.html" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Pre-print</a> · <a href="/appendices/pnas.2215572120.sapp.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Appendix</a> · <a href="https://manydesigns.online/" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Website</a></small>
-</div>
-
-<div style="margin:0 0 1.25rem 0;">
 <strong>Learning to deal with repeated shocks under strategic complementarity: An experiment</strong><br>
 <small>(with <a href="https://sites.google.com/view/ccornand/">Camille Cornand</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
 <small><em>Journal of Economic Behavior &amp; Organization</em>, 200, 2022.</small><br>
@@ -41,6 +34,14 @@ hidemeta: true
 <small><a href="https://doi.org/10.1016/j.jebo.2021.10.018" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Journal</a> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957606" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Pre-print</a> · <a href="/appendices/1-s2.0-S0167268121004492-mmc1.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Appendix</a></small>
 </div>
 
+## Crowd-sourced projects
+
+<div style="margin:0 0 1.25rem 0;">
+<strong>Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs</strong><br>
+<small>(with <a href="https://chr-huber.com/">Christoph Huber</a>, <a href="https://sites.google.com/site/annadreber/">Anna Dreber</a>, <a href="https://www.uibk.ac.at/de/ibf/team/huberj/">Jürgen Huber</a>, +91 others, and <a href="https://www.uibk.ac.at/de/economics/mitarbeiterinnen/felix-holzmeister/">Felix Holzmeister</a>)</small><br>
+<small><em>PNAS</em>, 120(3), 2023.</small><br>
+<small><a href="https://doi.org/10.1073/pnas.2215572120" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Journal</a> · <a href="https://ideas.repec.org/a/nas/journl/v120y2023pe2215572120.html" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Pre-print</a> · <a href="/appendices/pnas.2215572120.sapp.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Appendix</a> · <a href="https://manydesigns.online/" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Website</a></small>
+</div>
 
 ## Working papers and works in progress
 
