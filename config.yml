@@ -10,6 +10,9 @@ pagination:
 taxonomies:
     tag: tags
 
+disableKinds:
+  - rss
+
 menu:
     main:
         - name: Research
@@ -21,7 +24,7 @@ menu:
 
 params:
     description: "This website hosts Muhammed Bulutay's research and course information."
-    author: 
+    author: Muhammed Bulutay
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,52 +47,35 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
-          title: Dr. Muhammed Bulutay
-          subtitle: "I am a postdoctoral researcher in economics at Heidelberg University (Alfred Weber Institute). 
-          My research studies expectations and strategic uncertainty — with applications to inflation, central bank communication, and household/firm behavior." 
-      #<br><br><strong>News and updates</strong>
-      #<br><small> Visiting - I will be visiting Bogazici University between 16 December and 12 January.</small>  "
-          imageUrl: "picture.jpg"
-          imageWidth: 190
-          imageHeight: 190
-          buttons:
-            - name: Research
-              url: research/
-           # - name: Data
-           #   url: data/
-           # - name: Books
-           #   url: books/
-            - name: Teaching
-              url: teaching/
-           # - name: Tags
-           #   url: tags/
-           # - name: Archive
-           #   url: archive/
-           # - name: Blog
-           #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+      enabled: true
+      title: Dr. Muhammed Bulutay
+      subtitle: >-
+        I am a postdoctoral researcher in economics at 
+        <a href="https://www.awi.uni-heidelberg.de/en/people/faculty/dr-muhammed-bulutay" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Heidelberg University</a>.
+        I do research on the micro-foundations of macro-economic activity, with an emphasis on causality.
+        I have worked on topics such as expectations and strategic uncertainty.
 
+        <br><br><strong>News</strong>
+        <br><small>Presentation: “Overprecision and (Ir)rational Inattention” at FUR 2026, Alicante, 10–12 June.</small>
+      imageUrl: "picture.jpg"
+      imageWidth: 190
+      imageHeight: 190
+      buttons:
+        - name: Research
+          url: research/
+        - name: Teaching
+          url: teaching/
     socialIcons:
         - name: CV
           url: https://drive.google.com/file/d/1ZP6-lDDKrj4kiodIxh2BlZGafvTzB_gW/view?usp=sharing
         - name: Email
           url: mailto:muhammed.bulutay@awi.uni-heidelberg.de
-       # - name: Zoom
-       #   url: https://www.zoom.us/my/igelfeld
-       # - name: Location
-       #   url: location/
-       # - name: Office Hours
-       #   url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=UVNay1sAAAAJ&hl=en
-       # - name: GitHub
-       #   url: https://github.com/pmichaillat
-       # - name: Substack
-       #   url: https://pmichaillat.substack.com
-       # - name: YouTube
-       #   url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
+        - name: X
           url: https://x.com/mvbulutay
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/muhammed-bulutay
         - name: Bluesky
           url: https://bsky.app/profile/mvbulutay.bsky.social
 
