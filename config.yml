@@ -86,7 +86,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Muhammed Bulutay"
-      icon: favicon-mb.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
