@@ -57,7 +57,7 @@ hidemeta: true
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
-<strong>Beliefs and behavior: Causality in information experiments with cross learning</strong><br>
+<strong>Cross-learning and identification in information experiments</strong><br>
 <small>(with <a href="https://julius-schoelkopf.com/">Julius Schölkopf</a>)</small><br>
 <small>(draft available upon request)</small>
 </div>
