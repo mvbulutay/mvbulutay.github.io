@@ -66,5 +66,5 @@ hidemeta: true
 
 <div style="margin:0 0 1.25rem 0;">
 <strong>Measuring inflation expectations in high-inflation regimes</strong><br>
-<small>(with Emrehan Aktuğ, Orhan Erem Ateşağaoğlu, Pascal Nicolas Kieren, and Stefan Trautmann)</small>
+<small>(with <a href="https://sites.google.com/view/emrehanaktug/home">Emrehan Aktuğ</a>, <a href="https://sites.google.com/site/eremates/">Orhan Erem Ateşağaoğlu</a>, <a href="https://sites.google.com/view/pascalkieren">Pascal Nicolas Kieren</a>, <a href="https://www.awi.uni-heidelberg.de/en/professorships/behavioral-finance-and-contract-theory/prof-dr-stefan-trautmann">Stefan Trautmann</a>, <a href="https://sites.google.com/site/ogoldfayn/">Olga Goldfayn-Frank</a>, and <a href="https://web.bogazici.edu.tr/saltoglu/">Burak Saltoğlu</a>)</small>
 </div>
