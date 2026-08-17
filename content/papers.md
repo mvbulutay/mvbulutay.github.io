@@ -46,7 +46,7 @@ hidemeta: true
 <div style="margin:0 0 1.25rem 0;">
 <strong>Consumer beliefs about central bank inflation forecasts</strong><br>
 <small>(Conditionally accepted at <em>International Journal of Forecasting</em>)</small><br>
-<small><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">WP</a> · <a href="https://aspredicted.org/26t9n.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-2</a></small>
+<small><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">WP</a> · <a href="https://aspredicted.org/26t9n.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-2</a> · <a href="https://github.com/mvbulutay/ijf-consumer-beliefs-replication" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Replication package</a></small>
 </div>
 
 <div style="margin:0 0 1.25rem 0;">
