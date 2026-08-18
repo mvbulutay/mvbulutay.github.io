@@ -14,6 +14,12 @@ hidemeta: true
 ## Publications
 
 <div style="margin:0 0 1.25rem 0;">
+<strong>[5] Consumer beliefs about central bank inflation forecasts</strong><br>
+<small> Forthcoming <em>International Journal of Forecasting</em>)</small><br>
+<small><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">WP</a> · <a href="https://aspredicted.org/26t9n.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-2</a> · <a href="https://github.com/mvbulutay/ijf-consumer-beliefs-replication" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Replication</a></small>
+</div>
+
+<div style="margin:0 0 1.25rem 0;">
 <strong>[4] Measuring strategic-uncertainty attitudes</strong><br>
 <small>(with <a href="https://www.uni-potsdam.de/de/vwl-mwi/team/bruttel">Lisa Bruttel</a>, <a href="https://sites.google.com/view/ccornand/">Camille Cornand</a>, <a href="https://www.tu.berlin/macroeconomics/team/prof-dr-frank-heinemann">Frank Heinemann</a>, and <a href="https://sites.google.com/site/zylbersztejn/">Adam Zylbersztejn</a>)</small><br>
 <small><em>Experimental Economics</em>, 26(3), 2023.</small><br>
@@ -42,12 +48,6 @@ hidemeta: true
 </div>
 
 ## Working papers
-
-<div style="margin:0 0 1.25rem 0;">
-<strong>Consumer beliefs about central bank inflation forecasts</strong><br>
-<small>(Conditionally accepted at <em>International Journal of Forecasting</em>)</small><br>
-<small><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5149381" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">WP</a> · <a href="https://aspredicted.org/26t9n.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-1</a> · <a href="https://aspredicted.org/7px9k.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP-2</a> · <a href="https://github.com/mvbulutay/ijf-consumer-beliefs-replication" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Replication</a></small>
-</div>
 
 <div style="margin:0 0 1.25rem 0;">
 <strong>Overprecision and (ir)rational inattention</strong><br>
