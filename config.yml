@@ -50,13 +50,21 @@ params:
       enabled: true
       title: Dr. Muhammed Bulutay
       subtitle: >-
+        <span style="display:block; text-align:justify;">
         I am a postdoctoral researcher in economics at 
         <a href="https://www.awi.uni-heidelberg.de/en/people/faculty/dr-muhammed-bulutay" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Heidelberg University</a>.
-        I do research on the micro-foundations of macro-economic activity, with an emphasis on causality. 
-        I have worked on topics such as expectations and strategic uncertainty.
+        My research focuses on expectation formation, particularly on how people acquire, interpret, and respond to information.
+        I draw on information and behavioral economics, use experimental and other causal methods, and study applications in macroeconomics and household finance.
+        </span>
 
         <br><br><strong>News</strong>
-        <br><small>Publication update: “Consumer Beliefs about Central Bank Forecasts” has been conditionally accepted at the <em>International Journal of Forecasting</em>.</small>
+
+        <div style="margin-top:0.35rem; text-align:left;">
+        <small>
+        <span style="display:block; padding-left:1.1em; text-indent:-1.1em;">◆&nbsp; Presentation: “Measuring Inflation Expectations in High-Inflation Regimes” at the <a href="https://www.ecb.europa.eu/press/conferences/html/20261113_expectationssurveys.de.html" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Conference on Expectations Surveys 2026</a> (BoC–ECB–New York Fed–Banxico), Mexico City, 13–14 November.</span>
+        <span style="display:block; padding-left:1.1em; text-indent:-1.1em;">◆&nbsp; Publication: “Consumer Beliefs about Central Bank Inflation Forecasts” is forthcoming at the <em>International Journal of Forecasting</em>.</span>
+        </small>
+        </div>
       imageUrl: "picture.jpg"
       imageWidth: 190
       imageHeight: 190
