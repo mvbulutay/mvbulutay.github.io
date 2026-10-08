@@ -52,7 +52,7 @@ hidemeta: true
 <div style="margin:0 0 1.25rem 0;">
 <strong>Overprecision and subjectively rational inattention</strong><br>
 <small>(with <a href="https://sites.google.com/site/cirilboschrosa/">Ciril Bosch-Rosa</a>, and <a href="http://bkassner.eu/">Bernhard Kassner</a>)</small><br>
-<small>(R&amp;R at <em>JPE: Micro</em>)</small><br>
+<small>(R&amp;R at <em>JPE Micro</em>)</small><br>
 <small><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5228810" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">WP</a> · <a href="https://aspredicted.org/59bm-mzhz.pdf" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">PAP</a> · <a href="https://www.linkedin.com/posts/berlin-school-of-economics_when-confidence-limits-attention-activity-7423998856067158016-5eEw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABQcLRYBpixJh97vLdn9NOfC598KCRzBG6k" style="color:#0000FF !important; text-decoration-color:#0000FF !important;">Linkedin</a></small>
 </div>
 
